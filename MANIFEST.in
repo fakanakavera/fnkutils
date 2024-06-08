@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+recursive-include myapp/static *
+recursive-include myapp/templates *
+recursive-include fnkauth/views *
